@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="calculator/app" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/calculator.iml" group="calculator" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin_calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin_calculator.iml" group="kotlin_calculator" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/kotlin_calculator-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/kotlin_calculator-app.iml" group="kotlin_calculator/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="kotlin_calculator/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kotlin_calculator.iml" filepath="$PROJECT_DIR$/.idea/kotlin_calculator.iml" group="kotlin_calculator" />
     </modules>
   </component>
 </project>
