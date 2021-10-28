@@ -21,7 +21,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //Initialize array of Buttons
-        val buttons = arrayOf<Button>(btn1, btn2, btn3, btn4, btn5, btn6, btn7, btn8, btn9, btn0, divide, minus, add, dot)
+        //These things are labeled as arrayOf of type as Button
+        val buttons = arrayOf<Button>(btn1, btn2, btn3, btn4, btn5, btn6, btn7, btn8, btn9, btn0, divide, minus, add, point)
         val clear: Button = findViewById(R.id.clear)
         val equals: Button = findViewById(R.id.equals)
         equals.setOnClickListener { v ->
